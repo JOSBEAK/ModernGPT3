@@ -8,3 +8,4 @@ Modern GPT3InfoHub aims to provide a user-friendly and visually appealing platfo
 - Media Queries for Responsive Design
 
 Access It on : https://josbeakgpt.netlify.app/
+<img width="1470" alt="image" src="https://github.com/JOSBEAK/ModernGPT3/assets/59971421/af260424-1edf-46de-8c0f-3801a266114d">
